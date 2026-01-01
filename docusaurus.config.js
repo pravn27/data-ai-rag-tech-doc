@@ -67,7 +67,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        // title: "TypeScript",
+        // title: "RAG",
         logo: {
           alt: "Logo",
           src: "/img/logo.png",
