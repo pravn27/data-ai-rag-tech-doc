@@ -1,0 +1,8 @@
+{
+  "label": "Documentations",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains complete RAG documentations, references & related links."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Course & tutorials",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains complete RAG course & tutorials tech docs, references & related links."
+  }
+}
