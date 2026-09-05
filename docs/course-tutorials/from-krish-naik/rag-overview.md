@@ -7,6 +7,7 @@ sidebar_position: 1
 ## Course
 
     - https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/
+    - Github source - https://github.com/pravn27/rag-learning-journey/tree/master/krish-naik/course-1
 
 ## Env setup with VS code IDE & Anaconda installation
 
@@ -15,11 +16,5 @@ sidebar_position: 1
         - https://pravn27.github.io/python-tech-doc/docs/python-course-tutorials/krish-naik/readerDoc/Getting%20started%20with%20Python/getting-start-with-python
 
 ## Env setup with UV package(improved, good to use compare to Anaconda)
+    - have to explore with UV package
 
-## Complete RAG notes
-
-    - TBA
-
-## Overview
-
-## RAG hands on practice & implementation, demo projects
