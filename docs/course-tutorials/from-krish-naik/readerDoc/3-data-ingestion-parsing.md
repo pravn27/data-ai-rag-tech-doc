@@ -11,8 +11,18 @@ sidebar_position: 3
     - once virtual env created, activate it
         - `source .venv/bin/activate`
 
-## Langchain Document structure
+## Using Langchain to build RAG system
+    - https://github.com/langchain-ai/langchain
+    - https://reference.langchain.com/python/langchain
+    - https://reference.langchain.com/python/langchain/overview
 
+## Langchain Document structure - Page Content and Metadata
+    
     - https://github.com/pravn27/rag-learning-journey/blob/master/krish-naik/course-1/projects/rag-1/1-data-ingestion-and-parsing/1-data-ingestion.ipynb
+
+    - https://raw.githubusercontent.com/pravn27/rag-learning-journey/refs/heads/master/krish-naik/course-1/projects/rag-1/1-data-ingestion-and-parsing/ref-resources/1-langchain-document-components.svg
+
+    - Langchain Document are required to Enrich the data by adding metadata, while storing into Vector DB
+        - https://reference.langchain.com/python/langchain-core/documents/base/Document
 
 ## Data Ingestion & Parsing using Document Loaders
