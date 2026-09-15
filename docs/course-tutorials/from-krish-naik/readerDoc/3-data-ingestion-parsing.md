@@ -22,7 +22,16 @@ sidebar_position: 3
 
     - https://raw.githubusercontent.com/pravn27/rag-learning-journey/refs/heads/master/krish-naik/course-1/projects/rag-1/1-data-ingestion-and-parsing/ref-resources/1-langchain-document-components.svg
 
-    - Langchain Document are required to Enrich the data by adding metadata, while storing into Vector DB
+    - Langchain Document are required to Enrich the data by adding metadata
         - https://reference.langchain.com/python/langchain-core/documents/base/Document
 
-## Data Ingestion & Parsing using Document Loaders
+
+## What are the Data considering to parse and converting into Document structure ?
+
+- https://github.com/pravn27/rag-learning-journey/tree/master/krish-naik/course-1/projects/rag-1/1-data-ingestion-and-parsing
+    
+    - PDF file
+    - Docx file
+    - CSV or Excel sheet
+    - Json file
+    - Database - SQLite
