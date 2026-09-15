@@ -26,7 +26,7 @@ sidebar_position: 3
         - https://reference.langchain.com/python/langchain-core/documents/base/Document
 
 
-## What are the Data considering to parse and converting into Document structure ?
+## What are the different Data considering to Read, Parse and Converting into langchain Document structure ?
 
 - https://github.com/pravn27/rag-learning-journey/tree/master/krish-naik/course-1/projects/rag-1/1-data-ingestion-and-parsing
     
